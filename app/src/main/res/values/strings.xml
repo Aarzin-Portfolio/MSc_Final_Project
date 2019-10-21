@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Bird Tracking</string>
+    <string name="app_name_caps">BIRD TRACKING</string>
+    <string name="google_maps_key">AIzaSyB8114oqb5-16nfcc0Wppr9r_HYD1EVlXQ</string>
+    <string name="search_hint">Search here</string>
+
+
+    <string name="bird_name_1">Wren</string>
+    <string name="bird_name_2">Great tit</string>
+    <string name="bird_name_3">Hawfinch</string>
+    <string name="bird_name_4">Great tit</string>
+    <string name="bird_name_5">Wren</string>
+    <string name="bird_name_6">Hawfinch</string>
+    <string name="bird_name_7">Hoopoes</string>
+    <string name="bird_name_8">Marsh Tit</string>
+    <string name="bird_name_9">Hoopoes</string>
+    <string name="bird_name_10">Marsh Tit</string>
+
+
+    <string name="latitude_1">53.79391</string>
+    <string name="latitude_2">53.81667</string>
+    <string name="latitude_3">53.58333</string>
+    <string name="latitude_4">53.79391</string>
+    <string name="latitude_5">53.7446</string>
+    <string name="latitude_6">51.50853</string>
+    <string name="latitude_7">54.97328</string>
+    <string name="latitude_8">52.58547</string>
+    <string name="latitude_9">51.82098</string>
+    <string name="latitude_10">51.64733</string>
+
+
+    <string name="longitude_1">-1.75206</string>
+    <string name="longitude_2">-3.05</string>
+    <string name="longitude_3"> -2.43333</string>
+    <string name="longitude_4">-1.75206</string>
+    <string name="longitude_5">-0.33525</string>
+    <string name="longitude_6">-0.12574</string>
+    <string name="longitude_7">-1.61396</string>
+    <string name="longitude_8">-2.12296</string>
+    <string name="longitude_9">-3.01743</string>
+    <string name="longitude_10">-3.13476</string>
+
+
+    <string name="category_1">Rare Species</string>
+    <string name="category_2">Rare Species</string>
+    <string name="category_3">Unknown Species</string>
+    <string name="category_4">Rare Species</string>
+    <string name="category_5">known Species</string>
+    <string name="category_6">Rare Species</string>
+    <string name="category_7">known Species</string>
+    <string name="category_8">Unknown Species</string>
+    <string name="category_9">known Species</string>
+    <string name="category_10">Rare Species</string>
+
+    <string name="date_1">24/08/2019 8:08:10</string>
+    <string name="date_2">24/08/2019 8:08:10</string>
+    <string name="date_3">15/9//2019 10:4:6</string>
+    <string name="date_4">21/7/2019 20:25:09</string>
+    <string name="date_5">14/5/2019 16:05:00</string>
+    <string name="date_6">19/6/2019 12:00:30</string>
+    <string name="date_7">29/4/2019 10:21:00</string>
+    <string name="date_8">22/5/2019 22:16:05</string>
+    <string name="date_9">14/5/2019 2:19:00</string>
+    <string name="date_10">18/2/2019 23:00:00</string>
+
+    <string name="desc_1">Wrens are a family of mostly small, brown, passerine birds in the New World family Troglodytidae. The family includes 88 species divided into 19 genera. Only the Eurasian wren occurs in the Old World, where in Anglophone regions, it is commonly known simply as the "wren", as it is the originator of the name.</string>
+    <string name="desc_2">The great tit is a passerine bird in the tit family Paridae. It is a widespread and common species throughout Europe, the Middle East, Central and Northern Asia, and parts of North Africa where it is generally resident in any sort of woodland; most great tits do not migrate except in extremely harsh winters.</string>
+    <string name="desc_3">The hawfinch is a passerine bird in the finch family Fringillidae. Its closest living relatives are the evening grosbeak from North America and the hooded grosbeak from Central America and Mexico. This bird breeds across Europe and temperate Asia.</string>
+    <string name="desc_4">Hoopoes are colourful birds found across Afro-Eurasia, notable for their distinctive "crown" of feathers. Three living and one extinct species are recognized, though for many years all were lumped as a single species—Upupa epops.</string>
+    <string name="desc_5">The marsh tit is a passerine bird in the tit family Paridae and genus Poecile, closely related to the willow, Père David\'s and Songar tits. It is small with a black crown and nape, pale cheeks, brown back and greyish-brown wings and tail. Between 8 and 11 subspecies are recognised.</string>
+
+</resources>
